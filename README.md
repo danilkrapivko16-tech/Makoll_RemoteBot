@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Лёгкий универсальный RemoteBot от Makoll Studio
+  Лёгкий универсальный RemoteBot от Makolix Studio
 </p>
 
 ---
